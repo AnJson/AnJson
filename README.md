@@ -1,5 +1,6 @@
 ### Hi there 👋
-### My name is Anders Jonsson, i'm a student of computer-science at the Linneaus University.
+### My name is Anders Jonsson! 
+### I'm a student of computer-science at the Linneaus University in Kalmar, Sweden.
 
 <!--
 **AndersJonssonLNU/AndersJonssonLNU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
